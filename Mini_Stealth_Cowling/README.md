@@ -3,4 +3,4 @@ MiniStealthburner chopped to take [Wristwatch BMG Extruder](../Wristwatch_Extrud
 
 ![Pic](IMAGES/Screenshot1.jpg)
 
-Thanks to discord users Nemgrea for the original parts and to kyleisah for assistance in CAD.
+Thanks to discord users nemgrea for the original parts and to kyleisah for assistance in CAD.
