@@ -1,6 +1,6 @@
 
 MiniStealthburner chopped to take Orbiter 2 and [Wristwatch BMG Extruder](../Wristwatch_Extruder_BMG)
 
-![Idler](IMAGES/Screenshot.jpg)
+![Pic](IMAGES/Screenshot1.jpg)
 
 Thanks to discord user kyleisah for assistance.
