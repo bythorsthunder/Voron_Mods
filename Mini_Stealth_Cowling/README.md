@@ -3,4 +3,4 @@ MiniStealthburner chopped to take Orbiter 2 and [Wristwatch BMG Extruder](../Wri
 
 ![Pic](IMAGES/Screenshot1.jpg)
 
-Thanks to discord user kyleisah for assistance.
+Thanks to discord users Nemgrea for the original parts and to kyleisah for assistance in CAD.
