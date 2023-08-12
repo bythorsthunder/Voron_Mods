@@ -1,5 +1,5 @@
 
-MiniStealthburner chopped to take Orbiter 2 and [Wristwatch BMG Extruder](../Wristwatch_Extruder_BMG)
+MiniStealthburner chopped to take [Wristwatch BMG Extruder](../Wristwatch_Extruder_BMG) or Orbiter 2 Extruder.
 
 ![Pic](IMAGES/Screenshot1.jpg)
 
