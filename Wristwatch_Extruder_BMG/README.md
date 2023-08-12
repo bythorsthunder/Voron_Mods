@@ -1,6 +1,6 @@
 # Wristwatch BMG
 
-![Extruder](IMAGES/WWBMG_Printed.jpg)
+![Extruder](IMAGES/Extruder.jpg)
 
 Beta Release of new extruder using BMG gears and Orbiter 2 Mounting hole locations.
 Developed by Voron Contributors
