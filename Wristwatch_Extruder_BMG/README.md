@@ -10,7 +10,7 @@ Extruder is made up of 3 parts:  Main Body, Motor Plate and Tension Arm.  The te
 Additonal files:
 
 1. Main Body with sherpa hole spacing for easy installation on existing toolheads using Sherpa spacing.
-2. Rear Plate with Tail:  Additonal mounting point for use with Mini Stealthburner derived cowlings as found [here](../Mini_Stealth_Cowling)
+2. Rear Plate with Tail:  Additonal mounting point for use with Mini Stealthburner derived cowlings as found [here](../Mini_Stealth_Cowling) or [here](../Experimental_Dual_5015_Toolhead)
 3. XOL2.5 Adaptor Plate: Can be used to replace Orbiter 2 adaptor plate in XOL2.5 assemblies
 
 
