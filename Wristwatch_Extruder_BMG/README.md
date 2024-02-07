@@ -2,7 +2,7 @@
 
 ![Extruder](IMAGES/Extruder.jpg)
 
-Beta Release of new extruder using BMG gears and Orbiter 2 Mounting hole locations.
+A small form factor extruder using BMG gears and Orbiter 2 Mounting hole locations.
 Developed by Voron Contributors
 
 Extruder is made up of 3 parts:  Main Body, Motor Plate and Tension Arm.  The tension arm has an integrated support that is requried for 3D printing.
@@ -14,15 +14,15 @@ Additonal files:
 3. XOL2.5 Adaptor Plate: Can be used to replace Orbiter 2 adaptor plate in XOL2.5 assemblies
 
 
-All files can be shared freely but please do not post in public channels for the time being.
-
 ## BOM
 ```
 2 M3 Heatset Inserts
 1 M3x8
-1 M3x10
+1 M3x12
 1 M3x25
 1 Nema 14 Motor
 1 BMG or RIGDA Gear Set
 ```
 BHCS or SHCS can be used.
+
+Big thank you to Trippinonaduck for testing and feedback, to Esoterical for the ECAS version, to Weaslus, Tetsu, Clee, Hartk, Kyleisah for feedback and support and all the other Voron contributors.  
