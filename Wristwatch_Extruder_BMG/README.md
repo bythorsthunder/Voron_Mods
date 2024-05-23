@@ -20,9 +20,11 @@ Additonal files:
 1 M3x8
 1 M3x12
 1 M3x25
-1 Nema 14 Motor
+1 Nema 14 Motor 10T. (6T and 8T now supported with Back Plate in Mods dir.)
 1 BMG or RIGDA Gear Set
 ```
 BHCS or SHCS can be used.
 
-Big thank you to Trippinonaduck for testing and feedback, to Esoterical for the ECAS version, to Weaslus, Tetsu, Clee, Hartk, Kyleisah for feedback and support and all the other Voron contributors.  
+Big thank you to Trippinonaduck for testing and feedback, to Esoterical for the ECAS version, to Weaslus, Tetsu, Clee, Hartk, Kyleisah for feedback and support and all the other Voron contributors.
+
+Thank you to evelyndooley for the 6T and 8T Nema 14 support.
